@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sch-inerApp/static/css/main.5e2311a3.css",
-    "main.js": "/sch-inerApp/static/js/main.7f173ece.js",
+    "main.js": "/sch-inerApp/static/js/main.f695b8f1.js",
     "static/js/488.aa948d94.chunk.js": "/sch-inerApp/static/js/488.aa948d94.chunk.js",
     "static/media/currywurst.jpg": "/sch-inerApp/static/media/currywurst.af4a7c7942eb772a91bd.jpg",
     "index.html": "/sch-inerApp/index.html",
     "main.5e2311a3.css.map": "/sch-inerApp/static/css/main.5e2311a3.css.map",
-    "main.7f173ece.js.map": "/sch-inerApp/static/js/main.7f173ece.js.map",
+    "main.f695b8f1.js.map": "/sch-inerApp/static/js/main.f695b8f1.js.map",
     "488.aa948d94.chunk.js.map": "/sch-inerApp/static/js/488.aa948d94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e2311a3.css",
-    "static/js/main.7f173ece.js"
+    "static/js/main.f695b8f1.js"
   ]
 }
