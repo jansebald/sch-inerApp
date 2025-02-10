@@ -5,7 +5,7 @@ const kategorien = [
   {
     name: 'Currywurst',
     gerichte: [
-      { name: 'mit Pommes', preis: '5,50 €', bild: 'currywurst.jpg' },
+      { name: 'mit Pommes', preis: '5,50 €', bild: '/images/currywurst.jpg' },
     ]
   },
   {
