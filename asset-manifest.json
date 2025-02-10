@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sch-inerApp/static/css/main.5e2311a3.css",
+    "main.js": "/sch-inerApp/static/js/main.d96c617b.js",
+    "static/js/488.aa948d94.chunk.js": "/sch-inerApp/static/js/488.aa948d94.chunk.js",
+    "index.html": "/sch-inerApp/index.html",
+    "main.5e2311a3.css.map": "/sch-inerApp/static/css/main.5e2311a3.css.map",
+    "main.d96c617b.js.map": "/sch-inerApp/static/js/main.d96c617b.js.map",
+    "488.aa948d94.chunk.js.map": "/sch-inerApp/static/js/488.aa948d94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2311a3.css",
+    "static/js/main.d96c617b.js"
+  ]
+}
