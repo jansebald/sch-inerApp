@@ -2,11 +2,13 @@
   "name": "schainer-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jansebald.github.io/sch-inerApp", 
+  "homepage": "https://jansebald.github.io/sch-inerApp",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "5.0.1"
+    "react-router-dom": "^7.1.5",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
