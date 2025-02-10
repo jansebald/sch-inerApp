@@ -3,10 +3,9 @@ import Gericht from './Gericht';
 
 const kategorien = [
   {
-    name: 'Burger',
+    name: 'Currywurst',
     gerichte: [
-      { name: 'Cheeseburger', preis: '5,50 €', bild: 'cheeseburger.jpg' },
-      { name: 'Veggie Burger', preis: '6,00 €', bild: 'veggie-burger.jpg' }
+      { name: 'mit Pommes', preis: '5,50 €', bild: 'currywurst.jpg' },
     ]
   },
   {
