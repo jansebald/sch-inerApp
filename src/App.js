@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom'; // 'Switch' durch 'Routes' ersetzt
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import SpeisekartenKategorien from './components/SpeisekartenKategorien';
 import Partyservice from './components/Partyservice';
-import currywurst from './images/currywurst.jpg';
 
 function App() {
   return (
-    <Router>
+    // Füge den basename hinzu, um das Routing unter einem Unterverzeichnis zu ermöglichen
+    <Router basename="/sch-inerApp">
       <div className="App">
         <header className="App-header">
           <h1>Zum Schäiner</h1>
