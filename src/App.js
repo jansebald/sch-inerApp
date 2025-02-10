@@ -3,6 +3,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom'; // 'Switch' durch 'Routes' ersetzt
 import SpeisekartenKategorien from './components/SpeisekartenKategorien';
 import Partyservice from './components/Partyservice';
+import currywurst from './images/currywurst.jpg';
 
 function App() {
   return (
